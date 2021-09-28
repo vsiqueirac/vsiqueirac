@@ -1,5 +1,7 @@
 ### Olá pessoal!! Eu sou o Vini... amante de tecnologia e fazedor de coisas 😁
 
+![Snake animation](https://github.com/vsiqueirac/vsiqueirac/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **vsiqueirac/vsiqueirac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
