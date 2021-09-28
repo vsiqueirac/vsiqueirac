@@ -1,4 +1,4 @@
-### Olá, eu sou o Vini... amante de tecnologia e fazedor de coisas 😁
+### Olá, eu sou o Vini... amante de tecnologia e fazedor de coisas (solucionador de problemas) 😁
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
